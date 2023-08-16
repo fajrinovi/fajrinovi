@@ -24,6 +24,6 @@ With my comprehensive foundation in data, I am ready to tackle more challenges a
   </a>
 </p>
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=fajrinovi&label=Profile%20views&color=0e75b6&style=flat"
+    alt="fajrinovi" /> 
 </p>
