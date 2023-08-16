@@ -1,7 +1,5 @@
 # <p align=center> Hi, I'm Novi <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
-</p>
+
 A graduate in Informatics Engineering Education and passionate about data analytics, transforming data into actionable insight to elevate business strategy. I'm skilled in tools like Microsoft Excel, Google Data Studio, Python, SQL, and Tableau.
 
 With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in the data field. Reach me out through:
