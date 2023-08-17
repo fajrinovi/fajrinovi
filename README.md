@@ -15,14 +15,16 @@ With my comprehensive foundation in data, I am ready to tackle more challenges a
    - 🔭 I'm currently working on several independent projects. </br>
    - 🌱 I’m currently learning Machine Learning. </br>
 </details>
-    <p align=center>
-  <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fajrinovi&show_icons=true&theme=gotham">
-  </a>
-  <a href="#" title="Stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
-</p>
+
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fajrinovi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="fajrinovi" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajrinovi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="fajrinovi" /></p>
 
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=fajrinovi&label=Profile%20views&color=0e75b6&style=flat"
     alt="fajrinovi" /> 
