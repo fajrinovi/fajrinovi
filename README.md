@@ -16,10 +16,7 @@ With my comprehensive foundation in data, I am ready to tackle more challenges a
    - 🌱 I’m currently learning Machine Learning. </br>
 </details>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fajrinovi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="fajrinovi" 
-    bg_color=#808080/></p>
+<p>![fajriovi's github stats](https://github-readme-stats.vercel.app/api?username=fajrinovi&show_icons=true&theme=tokyonight)
 
 <br>
 
