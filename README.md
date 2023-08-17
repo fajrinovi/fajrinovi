@@ -16,7 +16,7 @@ With my comprehensive foundation in data, I am ready to tackle more challenges a
    - 🌱 I’m currently learning Machine Learning. </br>
 </details>
 
-<p>
+<p><a>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fajrinovi&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -27,7 +27,8 @@ With my comprehensive foundation in data, I am ready to tackle more challenges a
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fajrinovi&show_icons=true" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajrinovi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajrinovi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+</a></p>
 
 
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=fajrinovi&label=Profile%20views&color=0e75b6&style=flat"
